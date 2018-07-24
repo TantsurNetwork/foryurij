@@ -4,5 +4,10 @@ html {
 
 html body {
   height: 100%;
-  text-align: center;
+  margin: 0;
+}
+
+html body .wrapper {
+  max-width: 1200px;
+  margin: auto;
 }
